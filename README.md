@@ -1,6 +1,7 @@
 # NEWS PAGE
 
    Is an application that enables one to view news of their choice.
+   
 
 # By: Ivine Kemuma
 
